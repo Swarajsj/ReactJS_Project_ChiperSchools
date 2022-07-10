@@ -1,0 +1,23 @@
+import React, { Component } from 'react';
+import ReactTypingEffect from 'react-typing-effect';
+import profilepic from '../img/Raaz.jpg';
+import Social from '../components/Social'
+
+
+
+class Home extends Component {
+    render() {
+        return (
+            <div className="condiv home">
+            <img src={profilepic} alt="ProfilePic" className="profilepic"></img>
+            <ReactTypingEffect className="typingeffect" 
+                text={['I am Swaraj Senapati','I am a Data Science Enthusiast']} speed={80} eraseDelay={700}/>
+            <Social />
+
+            </div>
+            )
+        }
+    }
+    
+    export default Home
+    
