@@ -1,17 +1,18 @@
 Portfolio/Resume Website using React JS.
 
-Clone or Download the project
+To run this project follow the steps :
 
-Open the project in vscode
+1) Open the project in vscode
 
-Open Terminal
+2) Open Terminal
 
-Type the below commands
+3) Type the below commands
 
-$ cd Portfolio_Website_React JS
+     *  $ cd Portfolio_Website_React JS
 
-$ npm install
+     *  $ npm install
 
-$ npm start
+     *  $ npm start
 
-That's all !
+4) That's all !
+
